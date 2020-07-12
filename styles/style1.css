@@ -1,0 +1,30 @@
+/*Это заголовок H2*/
+
+h2 {
+    color: #242052;
+    font-size: 35px;
+    border: 2px;
+    font-style: italic;
+}
+
+
+/*Это абзац*/
+
+p {
+    color: #373363;
+    text-align: justify;
+}
+
+
+/*Это курсив*/
+
+i {
+    color: #353257;
+}
+
+
+/*Это жирный*/
+
+b {
+    color:#373363;
+}
